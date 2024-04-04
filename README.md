@@ -12,7 +12,7 @@ You can create your own bot and attach it to the functionality provided in this 
 5. Check each of the boxes on the following permissions: PRESENCE INTENT, SERVER MEMBERS INTENT, MESSAGE CONTENT INTENT. Save changes
 6. Go to Oauth2 blade on the left
 7. Click "URL Generator"
-8. in the grid of options select "applications.commands and also select "bot"
+8. In the grid of options select "applications.commands and also select "bot"
 9. In the newly appearing Bot Permissions table below check "Administrator"
 10. At the very bottom of the page you will have a url generated. Paste this into your browser and sign in with you discord account and you will be promoted to add your bot to your server
 11. Go back to the 'Bot' blade on the left, click "reset token" and copy this token into a notepad (you will need this to allow the discord .net application wrapper to use your bot

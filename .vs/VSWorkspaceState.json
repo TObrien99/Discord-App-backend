@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\Discord-API",
+    "\\backend\\Discord-API\\Controllers",
+    "\\backend\\Discord-API\\Data",
+    "\\frontend",
+    "\\frontend\\src"
+  ],
+  "SelectedNode": "\\backend\\Discord-API\\Controllers\\DiscordBotRequestsController.cs",
+  "PreviewInSolutionExplorer": false
+}
